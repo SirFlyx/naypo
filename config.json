@@ -1,7 +1,5 @@
 {
-    "prefix": "!",
+    "prefix": "n!",
     "dono": "SirFlyx#4462",
-    "comandos": "!ping, !criar, !editar, !apagar",
-    "sistemas": "CounterMembers, JoinEvent, SayMessage",
-    "token": "Njk3ODgwODQ1NzA4NTU4MzQ3.XppxUQ.JeC4t1SoYV-fmQKySvInJR_dnf4"
+    "token": "NzA0MDg1OTQxNDA4NjI4NzU4.XqYI8A.er9WQoFVwFxiB_4fajNRBazRyhg"
 }
